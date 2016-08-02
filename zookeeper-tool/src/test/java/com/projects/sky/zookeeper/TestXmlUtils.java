@@ -6,10 +6,10 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.projects.sky.zookeeper.entity.Node;
-import com.projects.sky.zookeeper.entity.Organization;
-import com.projects.sky.zookeeper.wrapper.OrganizationWrapper;
-import com.projects.sky.zookeeper.xml.XmlUtils;
+import com.sky.projects.zookeeper.entity.Node;
+import com.sky.projects.zookeeper.entity.Organization;
+import com.sky.projects.zookeeper.wrapper.OrganizationWrapper;
+import com.sky.projects.zookeeper.xml.XmlUtils;
 
 public class TestXmlUtils {
 
